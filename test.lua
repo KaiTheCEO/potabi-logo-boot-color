@@ -5,11 +5,12 @@
 local drawer = require("drawer")
 
 -- Brand colors:
--- Cyan:     \027[36m 
--- Orange:   \027[31;1m
--- Red:      \027[31m
--- Magenta:  \027[35m
--- Blue:     \027[34m
+-- Cyan:          \027[36m 
+-- Orange:        \027[31;1m
+-- Red:           \027[31m
+-- Magenta:       \027[35m
+-- Dark Magenta:  \027[35;1m
+-- Blue:          \027[34m
 
 local potabi_color= {
 	"      \027[35m%.",
